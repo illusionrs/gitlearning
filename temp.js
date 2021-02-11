@@ -8,5 +8,5 @@ app.post('localhost:4000',(req,res)=>{
 })
 
 app.get('localhost:4000',(req,res)=>{
-    res.send("post worked")
+    res.send("post worked now")
 })
